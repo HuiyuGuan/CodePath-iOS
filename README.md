@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/HuiyuGuan/CodePath-iOS/prework/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![demo](https://user-images.githubusercontent.com/70614312/139098844-d14ee357-be1a-4c8f-8518-0da8cad74119.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
